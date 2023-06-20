@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2072c2-e970-42df-a523-99fcc197372a" name="Changes" comment="AWS CDK content">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS CDK_Content Content_48 hours.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aws_Cli.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDK_setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/ReadSteps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/cdk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/src/main/java/com/myorg/S3CdkApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/src/main/java/com/myorg/S3CdkStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/src/main/java/com/myorg/client/S3Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cdk/s3-cdk/src/test/java/com/myorg/S3CdkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/python-cdk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/ReadSteps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/cdk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/hello_cdk/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/hello_cdk/hello_cdk_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/requirements-dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/source.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/tests/unit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/hello-cdk/tests/unit/test_hello_cdk_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/cdk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/requirements-dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/source.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/sqs_cdk/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/sqs_cdk/sqs_cdk_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/tests/unit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-cdk/sqs-cdk/tests/unit/test_sqs_cdk_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RSM6TS29DWPVpSNCN1zXlU9qlw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/azuser/IdeaProjects/shiva/day01&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2072c2-e970-42df-a523-99fcc197372a" name="Changes" comment="" />
+      <created>1687238853833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687238853833</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add day01 content">
+      <created>1687238958013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687238958013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AWS CDK content">
+      <created>1687239109382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687239109382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add day01 content" />
+    <MESSAGE value="AWS CDK content" />
+    <option name="LAST_COMMIT_MESSAGE" value="AWS CDK content" />
+  </component>
+</project>
